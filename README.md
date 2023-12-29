@@ -25,3 +25,6 @@ To add even better effect compile `client.c`:
 `gcc.exe client.c -o www.youtube.com -l ws2_32`
 
 ## Note
+
+USE ON OWN RISK
+
